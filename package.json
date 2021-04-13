@@ -1,0 +1,20 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-dom": "^1.9.0",
+    "mocha": "^8.3.2"
+  },
+  "devDependencies": {
+    "jsdom": "16.5.3",
+    "jsdom-global": "3.0.2"
+  }
+}
